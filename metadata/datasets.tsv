@@ -1,0 +1,6 @@
+dataset_id	species	geo_accession	bioproject_accession	biological_question	analysis_role	status
+sorghum_phyb_buds	Sorghum bicolor	GSE79389	PRJNA315679	Growing versus arrested axillary buds in WT / phyB-1 context	developmental_state	planned
+sorghum_leaf_removal	Sorghum bicolor	GSE127822	PRJNA525462	Early bud activation after leaf removal (1 h, 3 h, 6 h)	early_activation_timecourse	planned
+wheat_tad27	Triticum aestivum	GSE124767	PRJNA513351	TaD27 / strigolactone-related tillering perturbation	hormonal_branching	planned
+rice_axillary_meristem	Oryza sativa	GSE178359	PRJNA738596	Axillary-meristem genotype comparison	genetic_branching_control	planned
+rice_effective_tillers	Oryza sativa		PRJNA1247236	Effective versus ineffective tillers; multi-omics study	state_validation	planned
