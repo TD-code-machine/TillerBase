@@ -1,0 +1,15 @@
+.DS_Store
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.nextflow/
+work/
+results/
+data/
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+.env
